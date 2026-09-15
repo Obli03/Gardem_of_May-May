@@ -1,0 +1,12 @@
+{
+    "name": "obli/lara",
+    "description": "the fist project",
+    "authors": [
+        {
+            "name": "obli"
+        }
+    ],
+    "require": {
+        "laravel/installer": "^5.32"
+    }
+}
